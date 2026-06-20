@@ -234,8 +234,3 @@ Optimized MongoDB document structures and query patterns for fast transaction lo
 
 ---
 
-# Resume Description
-
-**ExpenZo – Cloud-Native Expense Tracking Platform**
-
-Developed a full-stack expense management application using **React, TypeScript, Node.js, and MongoDB**, enabling users to track, categorize, and analyze financial transactions through an interactive dashboard. Architected and deployed the platform on **AWS EC2** with static assets hosted on **Amazon S3**, demonstrating cloud infrastructure, scalable deployment, and production-grade application management. Built secure REST APIs, optimized database operations, and implemented responsive user experiences for efficient personal finance tracking.
