@@ -1,4 +1,4 @@
-# ExpenZo – Cloud-Native Expense Tracking Platform
+# ExpenZo – Cloud-Native Expense Tracker Deployed on AWS
 
 **Live Demo:** https://expenzo-mauve.vercel.app/
 
