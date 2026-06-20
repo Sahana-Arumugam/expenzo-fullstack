@@ -1,5 +1,7 @@
 # ExpenZo – Cloud-Native Expense Tracking Platform
 
+**Live Demo:** https://expenzo-mauve.vercel.app/
+
 ## Overview
 
 **ExpenZo** is a full-stack expense management platform designed to help users track, categorize, analyze, and manage their personal finances through an intuitive and responsive interface. The application provides real-time expense monitoring, detailed spending insights, and secure cloud-based data storage.
